@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Fronend-Firebase/static/css/main.38867658.chunk.css",
+    "main.js": "/Fronend-Firebase/static/js/main.b5d94728.chunk.js",
+    "main.js.map": "/Fronend-Firebase/static/js/main.b5d94728.chunk.js.map",
+    "runtime-main.js": "/Fronend-Firebase/static/js/runtime-main.d9e876bc.js",
+    "runtime-main.js.map": "/Fronend-Firebase/static/js/runtime-main.d9e876bc.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/Fronend-Firebase/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ebf9c56a.chunk.js": "/Fronend-Firebase/static/js/2.ebf9c56a.chunk.js",
+    "static/js/2.ebf9c56a.chunk.js.map": "/Fronend-Firebase/static/js/2.ebf9c56a.chunk.js.map",
+    "static/js/3.16632144.chunk.js": "/Fronend-Firebase/static/js/3.16632144.chunk.js",
+    "static/js/3.16632144.chunk.js.map": "/Fronend-Firebase/static/js/3.16632144.chunk.js.map",
+    "index.html": "/Fronend-Firebase/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/Fronend-Firebase/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.38867658.chunk.css.map": "/Fronend-Firebase/static/css/main.38867658.chunk.css.map",
+    "static/js/2.ebf9c56a.chunk.js.LICENSE.txt": "/Fronend-Firebase/static/js/2.ebf9c56a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e876bc.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ebf9c56a.chunk.js",
+    "static/css/main.38867658.chunk.css",
+    "static/js/main.b5d94728.chunk.js"
+  ]
+}
